@@ -1,4 +1,4 @@
-=== CF7 ZICA MASK ===
+# CF7 ZICA MASK 
 Contributors: Jano Sousa
 Tags: mascara telefone, cf7, contact form telefone, contact form tel-zica, cf7-mask, cf7 telefone, cf7-zica-mask
 Requires at least: 3.0
