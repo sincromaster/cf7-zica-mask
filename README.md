@@ -23,11 +23,11 @@ Se você preferir, você pode instalar de forma manualmente.
 1. Ative o plugin dentro do menu 'Plugins'
 
 # Contributors: 
-Jano Sousa
-Tags: mascara telefone, cf7, contact form telefone, contact form tel-zica, cf7-mask, cf7 telefone, cf7-zica-mask
-Requires at least: 3.0
-Tested up to: 4.9.1
-Stable tag: 0.1
+* Jano Sousa
+* Tags: mascara telefone, cf7, contact form telefone, contact form tel-zica, cf7-mask, cf7 telefone, cf7-zica-mask
+* Requires at least: 3.0
+* Tested up to: 4.9.1
+* Stable tag: 0.1
 
 ## License
 
@@ -35,5 +35,5 @@ Stable tag: 0.1
 
 # Changelog
 
-= 0.1 =
+* 0.1 =
 * First release of the plugin
