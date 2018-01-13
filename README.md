@@ -13,7 +13,7 @@ Formato 9 Digito: (11) 11111-1111
 The quickest method for installing the importer is:
 
 1. Visit Plugins -> Add New
-1. Search for `cf7-zica-mast'
+1. Search for `cf7-zica-mask'
 1. Clica em "Instalar Agora"
 1. Finaliza clicando em "Activate Plugin & Run CF7 Zica Mask"
 
